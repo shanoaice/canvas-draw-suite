@@ -1,0 +1,8 @@
+{
+  "name": "canvas-draw-suite",
+  "version": "1.0.0",
+  "description": "A lib for drawing stuff objects on the <canvas>",
+  "repository": "git@github.com:kry-org/canvas-draw-suite.git",
+  "author": "Andy Chen <andy200511@126.com>",
+  "license": "MIT"
+}
