@@ -4,5 +4,14 @@
   "description": "A lib for drawing stuff objects on the <canvas>",
   "repository": "git@github.com:kry-org/canvas-draw-suite.git",
   "author": "Andy Chen <andy200511@126.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "rollup": "^1.8.0",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-node-resolve": "^4.0.1"
+  }
 }
